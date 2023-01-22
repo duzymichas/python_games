@@ -1,0 +1,22 @@
+window 400x400
+
+one cell 10x10
+
+class Snake:
+	pos of first cell
+	length
+	curr_direction
+	fun move snake
+	fun hit_border
+	fun change direction
+	fun enlarge
+	fun hit_snake
+	fun create egg
+
+
+def create cell:
+
+main:
+	war poczatkowe
+
+	redraw window
